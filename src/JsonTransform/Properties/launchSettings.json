@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "JsonTransform": {
+      "commandName": "Project",
+      "commandLineArgs": "-s source.json -t transform.json -d destination.json"
+    }
+  }
+}
